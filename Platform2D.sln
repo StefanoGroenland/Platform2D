@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F6C8615E-97DE-4A45-F3B3-E2D01B259E19}") = "Platform2D", "Assembly-CSharp.csproj", "{5E1862E7-9E25-349C-EDC1-6F697F7AE16A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E1862E7-9E25-349C-EDC1-6F697F7AE16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1862E7-9E25-349C-EDC1-6F697F7AE16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1862E7-9E25-349C-EDC1-6F697F7AE16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1862E7-9E25-349C-EDC1-6F697F7AE16A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
