@@ -7,6 +7,7 @@ public class LevelManager : MonoBehaviour {
     private PlayerController player;
     public GameObject deathParticle;
     public GameObject respawnParticle;
+
     public float respawnDelay;
     public int pointPenaltyOnDeath;
     
