@@ -18,4 +18,9 @@ public class DestroyFinishedParticle : MonoBehaviour {
         }
         Destroy(gameObject, thisParticleSystem.duration);
 	}
+
+    void OnBecameInvisible()
+    {
+        Destroy(gameObject, thisParticleSystem.duration);
+    }
 }
